@@ -1,6 +1,6 @@
 # Arduino2560 Line Tracer
 
-[![시연 영상](https://img.youtube.com/vi/2R4S9AuyrtQ/maxresdefault.jpg)](https://youtu.be/2R4S9AuyrtQ)
+[![시연 영상](https://img.youtube.com/vi/2R4S9AuyrtQ/0.jpg)](https://youtu.be/2R4S9AuyrtQ?si=PCrZiYORaqlw1Twv)
 
 > 클릭하면 유튜브 시연 영상으로 이동합니다.
 
@@ -202,3 +202,4 @@ else:
 - 라인 두께: 20mm
 - 최소 원호 반경: 185mm
 - 트랙 크기: 약 900 × 600mm
+
